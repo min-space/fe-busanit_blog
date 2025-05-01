@@ -1,1 +1,1 @@
-# fe-busanit_blog-내계정 리드미 수정
+# fe-busanit_blog - 부산IT계정 수정
